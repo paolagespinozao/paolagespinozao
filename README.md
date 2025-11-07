@@ -1,7 +1,9 @@
-[![Gmail Badge](https://img.shields.io/badge/-zpaolagespinozao@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:paolagespinozao@gmail.com)](mailto:paolagespinozao@gmail.com)
-[![LinkedIn Badge](https://www.linkedin.com/in/paola-espinoza-abernathy=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paola-espinoza-abernathy)](https://www.linkedin.com/in/paola-espinoza-abernathy)
-[![Github Badge](https://img.shields.io/badge/paolagespinozao?style=flat&logo=github&logoColor=white&link=https://github.com/paolagespinozao)](https://github.com/paolagespinozao)
----
+<!-- HEADER WITH BADGES -->
+<p align="left">
+  <a href="mailto:paolagespinozao@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail (paolagespinozao@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/paola-espinoza-abernathy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin (www.linkedin.com/in/paola-espinoza-abernathy)" /></a>
+  <a href="https://github.com/paola"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github (https://github.com/paolagespinozao)" /></a>
+</p>
 
 ## 👋Hello!! I’m **Paola** — Business Intelligence Analyst
 
