@@ -9,7 +9,7 @@
 
 ## 👋Hello!! I’m **Paola** — Business Intelligence Analyst
 
-A professional Business Intelligence Analyst with experience on more than seven technical projects. My skills include business analytics, data visualization and storytelling, SQL, Tableau, and Power BI.
+A professional Business Intelligence Analyst with experience on more than 10 technical projects. My skills include business analytics, data visualization and storytelling, SQL, Tableau, and Power BI.
 
 I started my career in Quality Control and Business Management, building a strong foundation in process optimization and operational efficiency. Fascinated by data’s power to drive smarter decisions, I studied Business Intelligence Analytics at TripleTen.
 
@@ -28,7 +28,6 @@ BI report identifying top-performing Manhattan neighborhoods & property types.
 ### 📈 **Customer Trends & Engagement Dashboard**
 A dashboard tracking user activity, retention, and campaign effectiveness.   
 
----
 
 ## 🛠️ Tech Stack
 
@@ -38,16 +37,15 @@ A dashboard tracking user activity, retention, and campaign effectiveness.
 - Power BI  
 - Excel  
 
----
+
 ## 🌟 About Me
  
 - 📊 Background in management & quality control, with experience analyzing processes
 - 📣 Strong communicator with the ability to understand business needs and translate them into analytical solutions
 - 🌎 Fluent in **English and Spanish**, which helps me collaborate effectively in diverse teams  
 - 💡 I love translating messy data into dashboards people can actually use  
-- 💼 Actively seeking **BI Analyst** opportunities    
-
----
+- 💼 Actively seeking **BI Analyst** opportunities
+  
 
 ## 💡 Fun Facts
 
@@ -55,7 +53,8 @@ A dashboard tracking user activity, retention, and campaign effectiveness.
 - 👨‍👩‍👧 Family time is my favorite way to recharge  
 - ✈️ I love traveling and exploring new places  
 - ❄️ I’m currently planning a trip to **Alaska** to see the Northern Lights
-- 🎯 My goal for 2025: Landing my dream job in data.
+- 🎯 My goal for **2025**: Landing my dream job in data.
+  
 ---
 
 ## 📬 Let's Connect!
